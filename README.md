@@ -15,8 +15,11 @@
 </div>
 <br>
 
-  <span style="background-color:white">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcoslobo&layout=compact&show_icons=true&theme=dark" alt="Marcos Lobo stats" height=175  />
+  <span>
+    <img src="https://github-readme-stats.vercel.app/api?username=marcoslobo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height=175 />
+  </span>
+  <span>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcoslobo&layout=compact&show_icons=true&theme=algolia" alt="Luiz Araujo's stats" height=175 />
   </span>
 </p>
 
