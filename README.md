@@ -16,10 +16,10 @@
 <br>
 
   <span>
-    <img src="https://github-readme-stats.vercel.app/api?username=marcoslobo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height=175 />
+    <img src="https://github-readme-stats.vercel.app/api?username=marcoslobo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height=175 />
   </span>
   <span>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcoslobo&layout=compact&show_icons=true&theme=algolia" alt="Marcos Lobo stats" height=175 />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcoslobo&layout=compact&show_icons=true&theme=radical" alt="Marcos Lobo stats" height=175 />
   </span>
 </p>
 
@@ -27,7 +27,7 @@
 <br>
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=marcoslobo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=marcoslobo&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 <br/>
