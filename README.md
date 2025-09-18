@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Parfin](https://www.parfin.io/)
 
-- 🌱 I’m currently learning **Typscript**
+- 🌱 I’m currently learning **Rust**
 
 - 📝 I write articles on [Medium](https://medium.com/@marcos-lobo) and [Dev.to](https://dev.to/marcoslobo)
 
