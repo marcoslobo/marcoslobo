@@ -1,82 +1,114 @@
-<h1 align="center">Hi 👋, I'm Marcos Lobo</h1>
-<h3 align="center">A fullcycle dev, in love with Blockchain Web3 JS .Net IaC</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcoslobo&label=Profile%20views&color=0e75b6&style=flat-square" alt="marcoslobo" /> </p>
-
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=marcoslobo" alt="marcoslobo" /> </p>
-
-- 🔭 I’m currently working on [Parfin](https://www.parfin.io/)
-
-- 🌱 I’m currently learning **Rust**
-
-- 📝 I write articles on [Medium](https://medium.com/@marcos-lobo) and [Dev.to](https://dev.to/marcoslobo)
-
-- 💬 Ask me about **.net, web3 and solidity!**
-
-- 📫 How to reach me **marcos.lobo.nit@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/marcos-lobo-27867130/](https://www.linkedin.com/in/marcos-lobo-27867130/)
-
-
-## 🙋‍♂️ Connect with me
 <div align="center">
-<a href="https://twitter.com/lobonit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lobonit" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/marcos-lobo-27867130" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcos-lobo-27867130" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/marcos-lobo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="marcos-lobo" height="30" width="40" /></a>
-<a href="https://medium.com/@marcos-lobo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@marcos-lobo" height="30" width="40" /></a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Marcos+Lobo+%F0%9F%91%8B;Full+Cycle+Developer;Blockchain+%26+Web3+Enthusiast;.NET+%7C+TypeScript+%7C+Solidity+%7C+Rust" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=marcoslobo&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+
 </div>
 
-## 🔥 Crafted with Passion
+---
+
+## 👨‍💻 About Me
+
+- 🔭 Currently working at [**Parfin**](https://www.parfin.io/) — Web3 infrastructure for financial institutions
+- 🌱 Leveling up with **Rust**
+- 📝 I write articles on [Medium](https://medium.com/@marcos-lobo) and [Dev.to](https://dev.to/marcoslobo)
+- 💬 Ask me about **.NET, Web3 and Solidity**
+- 📫 Reach me at **marcos.lobo.nit@gmail.com**
+- 📄 Check out my experiences on [LinkedIn](https://www.linkedin.com/in/marcos-lobo-27867130/)
+
+---
+
+## 🤝 Connect with Me
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/lobonit)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcos-lobo-27867130)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14972801/marcos-lobo)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@marcos-lobo)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/marcoslobo)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+
+**Frameworks & Libraries**
+
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+**Databases**
+
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+**Infrastructure & DevOps**
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
+
+**Web3 & Blockchain**
+
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-F7D35E?style=for-the-badge)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoslobo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="marcoslobo stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoslobo&layout=compact&langs_count=8&theme=tokyonight" alt="marcoslobo top langs"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=marcoslobo&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=marcoslobo&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🔥 Stack Overflow Activity
+
+<div align="center">
+
 [![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=14972801)](https://stackoverflow.com/users/14972801/marcos-lobo)
 
-## 🧰 Languages and tools
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".net core logo" />          
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />      
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="go lang logo"  height="40" />          
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=solidity" height="40" alt="solidity logo"  height="40"  />  
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />   
-  <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" height="40" alt="sql server logo" />          
-  <img width="12" />   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="postgresql logo" />
-  <img width="12" />    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height="40" alt="redis logo" />
-  <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg" height="40" alt="hardhat logo" />
-  <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-  <img width="12" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" height="40" alt="rabbitmq logo" />
-  <img width="12" />    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40"  alt="amazon aws logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" height="40" alt="azure logo" />  
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" height="40" alt="azure devops logo" />  
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k6/k6-original.svg" height="40" alt="k6 devops logo" />
-          
-          
-          
-          
-          
-          
-          
-
-          
-          
 </div>
-
-----
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=marcoslobo&show_icons=true&theme=merko&locale=en" alt="marcoslobo" /></p>
-
