@@ -82,24 +82,24 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoslobo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="marcoslobo stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoslobo&layout=compact&langs_count=8&theme=tokyonight" alt="marcoslobo top langs"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=marcoslobo&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=marcoslobo&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoslobo&show_icons=true&theme=tokyonight" alt="marcoslobo stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoslobo&layout=compact&langs_count=8&theme=tokyonight" alt="marcoslobo top langs"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=marcoslobo&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=marcoslobo&theme=tokyo-night&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
