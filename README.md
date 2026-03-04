@@ -88,8 +88,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoslobo&show_icons=true&theme=tokyonight" alt="marcoslobo stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoslobo&layout=compact&langs_count=8&theme=tokyonight" alt="marcoslobo top langs"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marcoslobo&theme=tokyonight" alt="marcoslobo stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marcoslobo&theme=tokyonight" alt="top languages by repo"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marcoslobo&theme=tokyonight" alt="top languages by commit"/>
 
 </div>
 
